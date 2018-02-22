@@ -1,0 +1,14 @@
+h1 {
+    font-size: 28px;
+}
+
+.errormsg {
+    position: absolute;
+    left: 35%;
+    top: 20%;
+}
+
+#redirect {
+    position: absolute;
+    left: 25%;
+}
